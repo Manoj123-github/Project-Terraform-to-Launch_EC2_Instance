@@ -158,6 +158,6 @@ Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 
 
 
-# Now check aws ec2 instance on aws console
+# Step 7:- Now check aws ec2 instance on aws console
 
 ![image](https://github.com/Manoj123-github/TerraformProject-Launch_EC2_Instance/assets/76830665/a5c1e69a-337b-4294-8d8f-d793c83571dd)
